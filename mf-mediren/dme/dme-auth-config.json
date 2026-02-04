@@ -3,8 +3,8 @@
    "mf": "demf-auth",
    "api": "http://localhost:8083/api",
    "keycloak": {
-      "url": "https://localhost:8787/auth",
-      "clientId": "dme-v2-app",
+      "url": "https://keycloak-mediren.eng.it",
+      "clientId": "dme-app",
       "enabled": false
    }
 }
