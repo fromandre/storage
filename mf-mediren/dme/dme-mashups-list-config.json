@@ -1,6 +1,6 @@
 {
   "name": "Mashups List",
   "mf": "demf-mashups-list",
-  "api": "https://localhost:8083/api/v3",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+  "api": "http://localhost:8083/api/v3",
+  "storageImgs": "http://storage.digital-enabler.eng.it/imgs"
 }

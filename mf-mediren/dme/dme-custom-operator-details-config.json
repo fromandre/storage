@@ -1,6 +1,6 @@
 {
   "name": "Custom Operator Details",
   "mf": "demf-custom-operator-details",
-  "api": "https://localhost:8083/api/v3",
+  "api": "http://localhost:8083/api/v3",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }

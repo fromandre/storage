@@ -1,7 +1,7 @@
 {
    "name": "Auth",
    "mf": "demf-auth",
-   "api": "https://localhost:8083/api",
+   "api": "http://localhost:8083/api",
    "keycloak": {
       "url": "https://localhost:8787/auth",
       "clientId": "dme-v2-app",
