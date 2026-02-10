@@ -1,5 +1,5 @@
 {
     "name": "Event Handler",
     "mf": "demf-event-handler",
-    "api": "http://localhost:8083/api"
+    "api": "https://mashups-mediren.eng.it/api"
 }
