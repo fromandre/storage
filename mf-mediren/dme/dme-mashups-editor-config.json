@@ -2,7 +2,7 @@
   "name": "Mashup Editor",
   "mf": "demf-mashups-editor",
   "api": "https://mashups-mediren.eng.it/api/v3",
-  "apiDraw": "https://mashups-mediren.eng.it/api/v3",
+  "apiDraw": "https://mashups-mediren.eng.it/v3",
   "importFileType": {
     "csv": ".csv",
     "excel": ".xls,.xlsx"
