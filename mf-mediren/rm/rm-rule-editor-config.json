@@ -1,5 +1,5 @@
 {
   "mf": "Rule Editor",
-  "api": "https://rules-mediren.eng.it/api",
+  "api": "https://rules-mediren.eng.it/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
