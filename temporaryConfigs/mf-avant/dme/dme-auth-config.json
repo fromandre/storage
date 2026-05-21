@@ -1,8 +1,9 @@
 {
-   "mf": "Auth",
+   "name": "Auth",
+   "mf": "demf-auth",
    "api": "http://localhost:8082/api",
    "keycloak": {
-      "url": "https://idm.digital-enabler.eng.it/auth",
+      "url": "https://localhost:8787/auth",
       "clientId": "dme-v2-app",
       "enabled": false
    }

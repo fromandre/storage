@@ -1,0 +1,12 @@
+{
+  "name": "Mashup Editor",
+  "mf": "demf-mashups-editor",
+  "api": "http://localhost:8082/api/v3",
+  "apiDraw": "http://localhost:8082/v3",
+  "importFileType": {
+    "csv": ".csv",
+    "excel": ".xls,.xlsx",
+    "json": ".json",
+    "text": ".txt"
+  }
+}
