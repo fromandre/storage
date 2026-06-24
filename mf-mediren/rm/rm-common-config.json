@@ -1,6 +1,7 @@
 {
-  "mf": "RuleManager",
-  "assets": [
+   "name":"RuleManager",
+   "mf":"demf-rule-manager",
+   "assets": [
     {
       "type": "flow",
       "name": "Mashup Flow",
@@ -16,8 +17,8 @@
       "name": "Google Calendar",
       "icon": "mdi-calendar-month"
     }
-  ],
-  "actions": [
+   ],
+   "actions": [
     {
       "type": "email",
       "name": "E-Mail",
@@ -38,5 +39,5 @@
       "name": "Telegram",
       "icon": "mdi-send-circle"
     }
-  ]
+   ]
 }

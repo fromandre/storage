@@ -1,9 +1,10 @@
 {
-  "mf": "Auth",
-  "api": "https://rules-mediren.eng.it/api/v1",
+  "name":"Auth",
+  "mf":"demf-auth",
+  "api": "http://localhost:8082/api/v1",
   "keycloak": {
-    "url": "https://keycloak-mediren.eng.it",
-    "clientId": "rule-app",
-    "enabled": true
+    "url": "http://localhost:30080",
+    "clientId": "rule-manager",
+    "enabled": false
   }
 }
