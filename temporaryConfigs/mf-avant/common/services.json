@@ -1,6 +1,6 @@
 [
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Dashboard Manager",
       "link":"",
       "prefix":"dashboards.",
@@ -9,7 +9,7 @@
       "category":"data_visualization"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Database Manager",
       "link":"",
       "prefix":"database.",
@@ -18,7 +18,7 @@
       "category":"data_processing"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Data Mashup",
       "link":"",
       "prefix":"mashups.",
@@ -27,7 +27,7 @@
       "category":"data_processing"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Dataflow",
       "link":"",
       "prefix":"airflow.",
@@ -36,7 +36,7 @@
       "category":"data_management"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Identity Manager",
       "link":"",
       "prefix":"idm.",
@@ -45,7 +45,7 @@
       "category":"data_management"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Storage",
       "link":"",
       "prefix":"storage-console.",
@@ -54,7 +54,7 @@
       "category":"data_management"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"Device Manager",
       "link":"",
       "prefix":"devices.",
@@ -63,7 +63,7 @@
       "category":"internet_things"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"ClouDev",
       "link":"",
       "prefix":"cloudev.",
@@ -72,7 +72,7 @@
       "category":"tools_developers"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"AI Studio",
       "link":"",
       "prefix":".",
@@ -81,7 +81,7 @@
       "category":"tools_developers"
    },
    {
-      "img":"//demo.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
+      "img":"//avant.digital-enabler.eng.it/suite/static/imgs/icons/icon_",
       "name":"APIs",
       "link":"",
       "prefix":"api.",
