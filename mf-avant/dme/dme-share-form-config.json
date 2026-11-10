@@ -1,0 +1,5 @@
+{
+  "name": "Share Form",
+  "mf": "demf-share-form",
+  "api": "http://localhost:8082/api/v3"
+}

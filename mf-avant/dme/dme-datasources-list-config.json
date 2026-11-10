@@ -1,0 +1,6 @@
+{
+    "name": "Datasources List",
+    "mf": "demf-datasources-list",
+    "api": "http://localhost:8082/api/v3",
+    "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it"
+}
